@@ -1,5 +1,3 @@
 title: ICS4U: Aiham's Portfolio
 description: A document to showcase my failures (and a pinch of working code)
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: github-theme-minimal
