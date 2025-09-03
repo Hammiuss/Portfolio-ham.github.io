@@ -1,3 +1,5 @@
+---
+
 # Hi, I'm Aiham
 Welcome to my portfolio for IC3Su. I’ll use this site to post my work and reflections. (And rant about Github)
 
@@ -10,4 +12,4 @@ Welcome to my portfolio for IC3Su. I’ll use this site to post my work and refl
 I deeply hate github, and enjoy ping pong
 
 ---
-*Update this page by editing `index.md` in your repository.*
+
