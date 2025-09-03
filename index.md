@@ -1,5 +1,5 @@
-# Hi, I'm <Your Name>
-Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflections.
+# Hi, I'm Aiham
+Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflections. (And rant about #github)
 
 ## Highlights
 - 🔧 Project 1: *(title)* – *(1–2 lines about what it does)*
