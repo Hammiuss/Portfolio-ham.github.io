@@ -1,4 +1,4 @@
-# Reflecction #1: Github Pages
+# Reflection #1: Github Pages
 - I learnt the basics of github by creating a portfolio to showcase my furture projects
 
 - Topic(s):
